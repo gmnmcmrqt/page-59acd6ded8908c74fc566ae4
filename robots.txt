@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gmbin.cn/sitemap.xml
